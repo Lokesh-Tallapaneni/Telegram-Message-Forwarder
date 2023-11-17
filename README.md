@@ -16,4 +16,6 @@ After you loginned successfully.Run the Appliaction.vbs file again it will open 
 
 If you already used the app.You won't get all this process.It will open the file directly.
 
+Please select the groups/channels that you are in admin or that you are allowed to message otherwise it won't work.
+
 If you are getting any issues Please raise....!
