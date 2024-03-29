@@ -32,8 +32,8 @@ def check(file_path):
 
 chats = []
 channel = []
-API_ID = '27577515'
-API_HASH = '4cfe231d14108decec1f51652342f749'
+API_ID = ''
+API_HASH = ''
 # client = TelegramClient('session_name', API_ID,
 #                         API_HASH)
 
