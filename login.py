@@ -14,13 +14,13 @@ def show_network_issue_dialog():
     root.destroy()
 
 session = "session_name"
-client = TelegramClient(session, "27577515", "4cfe231d14108decec1f51652342f749")
+client = TelegramClient(session, "27577515", "{API_TOKEN}")
 
 
 
 async def check_session():
     # Start Telethon session with the provided phone number
-    client = TelegramClient(session, "27577515", "4cfe231d14108decec1f51652342f749")
+    client = TelegramClient(session, "27577515", "{API_TOKEN}")
     # Check if the phone number is valid
     try:
         await client.connect()
